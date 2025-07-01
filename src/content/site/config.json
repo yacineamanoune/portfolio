@@ -1,7 +1,7 @@
 {
   "home": {
-    "name": "ByteKai",
-    "title": "Software Engineer & Curious Tinkerer",
+    "name": "Yacine Amanoune",
+    "title": "Machine Learning Engineer & Curious Tinkerer",
     "introduction": "I’m constantly learning and evolving. I love diving into new ideas and finding creative ways to solve problems.",
     "sections": {
       "blog": {
@@ -20,11 +20,19 @@
     "socialLinks": [
       {
         "platform": "GitHub",
-        "url": "https://github.com/bytekai"
+        "url": "https://github.com/yacineamamanoune"
       },
       {
-        "platform": "Twitter",
-        "url": "https://x.com/byteekai"
+        "platform": "X",
+        "url": "https://x.com/yacamanou"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/yacine-amanoune/"
+      },
+      {
+        "platform": "Email",
+        "url": "mailto:amanouneyacine@gmail.com"
       }
     ]
   }
